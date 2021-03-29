@@ -1,0 +1,1 @@
+// Don't understand Question 4 - Aren't function definitions hoisted above variable declarations?
